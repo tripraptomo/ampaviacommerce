@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://www.aviacommerce.org/sitemap.xml
+Sitemap: https://ampaviacommerce.vercel.app/sitemap.xml
